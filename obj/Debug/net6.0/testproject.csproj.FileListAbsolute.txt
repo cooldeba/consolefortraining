@@ -1,0 +1,15 @@
+C:\Users\dkhadang\OneDrive - Capgemini\Training - Tech FS\Projects\TestProject\testproject\bin\Debug\net6.0\testproject.exe
+C:\Users\dkhadang\OneDrive - Capgemini\Training - Tech FS\Projects\TestProject\testproject\bin\Debug\net6.0\testproject.deps.json
+C:\Users\dkhadang\OneDrive - Capgemini\Training - Tech FS\Projects\TestProject\testproject\bin\Debug\net6.0\testproject.runtimeconfig.json
+C:\Users\dkhadang\OneDrive - Capgemini\Training - Tech FS\Projects\TestProject\testproject\bin\Debug\net6.0\testproject.dll
+C:\Users\dkhadang\OneDrive - Capgemini\Training - Tech FS\Projects\TestProject\testproject\bin\Debug\net6.0\testproject.pdb
+C:\Users\dkhadang\OneDrive - Capgemini\Training - Tech FS\Projects\TestProject\testproject\obj\Debug\net6.0\testproject.csproj.AssemblyReference.cache
+C:\Users\dkhadang\OneDrive - Capgemini\Training - Tech FS\Projects\TestProject\testproject\obj\Debug\net6.0\testproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkhadang\OneDrive - Capgemini\Training - Tech FS\Projects\TestProject\testproject\obj\Debug\net6.0\testproject.AssemblyInfoInputs.cache
+C:\Users\dkhadang\OneDrive - Capgemini\Training - Tech FS\Projects\TestProject\testproject\obj\Debug\net6.0\testproject.AssemblyInfo.cs
+C:\Users\dkhadang\OneDrive - Capgemini\Training - Tech FS\Projects\TestProject\testproject\obj\Debug\net6.0\testproject.csproj.CoreCompileInputs.cache
+C:\Users\dkhadang\OneDrive - Capgemini\Training - Tech FS\Projects\TestProject\testproject\obj\Debug\net6.0\testproject.dll
+C:\Users\dkhadang\OneDrive - Capgemini\Training - Tech FS\Projects\TestProject\testproject\obj\Debug\net6.0\refint\testproject.dll
+C:\Users\dkhadang\OneDrive - Capgemini\Training - Tech FS\Projects\TestProject\testproject\obj\Debug\net6.0\testproject.pdb
+C:\Users\dkhadang\OneDrive - Capgemini\Training - Tech FS\Projects\TestProject\testproject\obj\Debug\net6.0\testproject.genruntimeconfig.cache
+C:\Users\dkhadang\OneDrive - Capgemini\Training - Tech FS\Projects\TestProject\testproject\obj\Debug\net6.0\ref\testproject.dll

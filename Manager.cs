@@ -1,18 +1,18 @@
-public class Manager:IEmployee, IEmployeeExtension
-{
-    public Manager()
-    {
-        Name = string.Empty;
+using System;
+
+internal class Manager:Employee, IEmployeeExtension
+{ 
+    internal Manager(string name):base(name)
+    {       
+          base.Role = Role.Manager;   
     }
-    public string Name {get; set;}
-    public double Salary {get; set;}
-    public void PrintEmployeeInfo()
-    {
-        Console.WriteLine(Name);
-    }
+  
+  
 
     public void PrintSalaryInfo()
     {
         Console.WriteLine(Salary);
     }
+
+   
 } 
