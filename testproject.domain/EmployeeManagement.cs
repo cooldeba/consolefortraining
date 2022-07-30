@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-namespace testproject
+namespace testproject.domain
 {
     public class EmployeeManagement
     {

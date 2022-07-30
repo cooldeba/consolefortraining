@@ -1,8 +1,8 @@
 using System;
-using testproject;
+using testproject.domain;
 using Xunit;
 
-namespace testproject_test
+namespace testproject.test
 {
     public class UnitTest1
     {

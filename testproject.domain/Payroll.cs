@@ -1,5 +1,5 @@
 using System;
-namespace testproject
+namespace testproject.domain
 {
 public class Payroll
 {

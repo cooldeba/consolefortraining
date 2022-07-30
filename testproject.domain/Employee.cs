@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-namespace testproject
+namespace testproject.domain
 {
     public class Employee : IEmployee
     {

@@ -1,4 +1,4 @@
-namespace testproject
+namespace testproject.domain
 {
 public class NullEmployee : Employee
 {
