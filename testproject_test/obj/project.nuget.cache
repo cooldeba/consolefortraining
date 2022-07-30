@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MQxBZEMIZfldGHKlLQ2K7LZuJF4XAhb4oK1imlTm898VAm7TANBXUNtIrnIx8BlnCjT6jDFl5XUnfCU6s3cdWQ==",
+  "dgSpecHash": "4fhnC5v/KsC05aNgjLIIJB1E5DyFBlP+VPWe0gJDmpDTCLYgGwN9zPf3g8/qSX7sMi+ctZSHUiAluzcztxRxzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dkhadang\\OneDrive - Capgemini\\Training - Tech FS\\Projects\\TestProject\\testproject\\testproject.csproj",
+  "projectFilePath": "C:\\Users\\dkhadang\\OneDrive - Capgemini\\Training - Tech FS\\Projects\\TestProject\\testproject\\testproject_test\\testproject_test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dkhadang\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\dkhadang\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

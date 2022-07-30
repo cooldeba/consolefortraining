@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dkhadang\\OneDrive - Capgemini\\Training - Tech FS\\Projects\\TestProject\\testproject\\testproject.csproj": {}
+    "C:\\Users\\dkhadang\\OneDrive - Capgemini\\Training - Tech FS\\Projects\\TestProject\\testproject\\testproject_test\\testproject_test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dkhadang\\OneDrive - Capgemini\\Training - Tech FS\\Projects\\TestProject\\testproject\\testproject.csproj": {
+    "C:\\Users\\dkhadang\\OneDrive - Capgemini\\Training - Tech FS\\Projects\\TestProject\\testproject\\testproject_test\\testproject_test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dkhadang\\OneDrive - Capgemini\\Training - Tech FS\\Projects\\TestProject\\testproject\\testproject.csproj",
-        "projectName": "testproject",
-        "projectPath": "C:\\Users\\dkhadang\\OneDrive - Capgemini\\Training - Tech FS\\Projects\\TestProject\\testproject\\testproject.csproj",
+        "projectUniqueName": "C:\\Users\\dkhadang\\OneDrive - Capgemini\\Training - Tech FS\\Projects\\TestProject\\testproject\\testproject_test\\testproject_test.csproj",
+        "projectName": "testproject_test",
+        "projectPath": "C:\\Users\\dkhadang\\OneDrive - Capgemini\\Training - Tech FS\\Projects\\TestProject\\testproject\\testproject_test\\testproject_test.csproj",
         "packagesPath": "C:\\Users\\dkhadang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dkhadang\\OneDrive - Capgemini\\Training - Tech FS\\Projects\\TestProject\\testproject\\obj\\",
+        "outputPath": "C:\\Users\\dkhadang\\OneDrive - Capgemini\\Training - Tech FS\\Projects\\TestProject\\testproject\\testproject_test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dkhadang\\AppData\\Roaming\\NuGet\\NuGet.Config"
